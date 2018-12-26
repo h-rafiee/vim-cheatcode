@@ -67,9 +67,9 @@ Command | Description | Similar commands
 --- | --- | ---
 `/<string>` | Forward Search about <string> |
 `?<string>` | Backward Search about <string> |
-`:s/<lookup string>/<replacement string>` | Search & Replacement on nearest line just one time | 
-`:%s/<lookup string>/<replacement string>` | Search & Replacement on multi lines just one time | 
-`:s/<lookup string>/<replacement string>/g` | Search & Replacement on nearest line |
-`:%s/<lookup string>/<replacement string>/g` | Search & Replacement entire of document | 
+`:s/<lookup>/<replacement>` | Search & Replacement on nearest line just one time | 
+`:%s/<lookup>/<replacement>` | Search & Replacement on multi lines just one time | 
+`:s/<lookup>/<replacement>/g` | Search & Replacement on nearest line |
+`:%s/<lookup>/<replacement>/g` | Search & Replacement entire of document | 
  
 
